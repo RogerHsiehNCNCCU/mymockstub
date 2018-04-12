@@ -1,4 +1,4 @@
-#HELLO MOTO
+# HELLO MOTO
 
 [![Build Status](https://travis-ci.org/wearetheledger/fabric-mock-stub.svg?branch=master)](https://travis-ci.org/wearetheledger/fabric-mock-stub)
 # Hyperledger Fabric Nodejs mockstub
